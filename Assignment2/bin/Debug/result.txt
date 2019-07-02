@@ -1,0 +1,3 @@
+
+:Mat b Mamat:A:B:B:B:
+:Mat b Mamat:B:C:B:A:A:

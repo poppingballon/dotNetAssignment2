@@ -1,0 +1,6 @@
+5
+1:B:What is the capital of Georgia?:Kuala Lumpur:Atlanta:Kabul:Washinton
+2:C:Who is this?:president.jpg:Ministry of Finance:Ministry of Defence:President of Georgia:Queen of Georgia
+1:C:What is the abbreviation for Georgia?:GEO:GA:GO:GEOR
+1:A:Largest city in Georgia?:Atlanta:Savannah:Athens:Atlantis
+3:A:Which one these is The Chronicle of Georgia in Tbilisi?:answer1.png:answer2.jpg:answer3.jpg:answer4.png
